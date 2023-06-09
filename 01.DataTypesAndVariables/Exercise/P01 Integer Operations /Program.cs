@@ -1,6 +1,6 @@
 using System;
 
-namespace P01_Integer_Operations
+namespace 01_Integer_Operations
 {
     internal class Program
     {
