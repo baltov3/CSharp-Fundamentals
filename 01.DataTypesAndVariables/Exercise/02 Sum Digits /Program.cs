@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P02_Sum_Digits
+namespace 02_Sum_Digits
 {
     internal class Program
     {
